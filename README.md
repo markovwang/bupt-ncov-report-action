@@ -63,11 +63,6 @@
 - `TG_BOT_TOKEN`: 你的 Bot 的 Token；
 - `TG_CHAT_ID`: 你和 Bot 的 Chat ID。
 
-### ServerChan
-
-[Server 酱](https://sct.ftqq.com/) 可以把填报结果推送到微信服务号或者企业微信内。你可以设置如下 Secret 发送结果：
-
-- `SERVERCHAN_KEY`: 你的 SendKey
 
 ### PushDeer
 
